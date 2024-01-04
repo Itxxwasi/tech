@@ -1,14 +1,14 @@
 {
-   "name": "suhail-md",
+   "name": "wasi-md",
    "version": "1.2.7",
-   "description": "Multi device whatsapp bot by SuhailTechInfo.",
+   "description": "Multi device whatsapp bot by Wasi tech.",
    "main": "lib/client.js",
    "type": "commonjs",
    "scripts": {
-             "start": "pm2 start lib/client.js --deep-monitoring --attach --name Suhail",
-             "stop": "pm2 stop Suhail"
+             "start": "pm2 start lib/client.js --deep-monitoring --attach --name wasi",
+             "stop": "pm2 stop wasi"
    },
-   "author": "SuhailTechInfo",
+   "author": "wasiTechInfo",
  
    "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
