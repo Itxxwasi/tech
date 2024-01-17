@@ -84,7 +84,7 @@
 1.  ***Get `SESSION ID` by  [`SCAN QR`](https://suhail-md-g1y0.onrender.com/) code. And then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
-***Get `SESSION ID` by  [`PARING CODE`](https://replit.com/@khadijarafi47/WASI-MD?v=1) code. And then `Go-to Whatapp>Three dots>Linked Devices`***
+***Get `SESSION ID` by  [`PARING CODE`](https://replit.com/@Itxxwasi/WASI-MD-3?v=1) code. And then `Go-to Whatapp>Three dots>Linked Devices`***
 
 ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
 5.  ***Click [`FORK`](https://github.com/SuhailTechInfo/Suhail-Md/fork) and `Star ⭐ Repository` if you Like that Bot.***
