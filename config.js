@@ -17,8 +17,8 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.scan = "https://suhail-md-g1y0.onrender.com/";
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github=process.env.GITHUB|| "https://github.com/Itxxwasi/WASI-BOT";
-global.gurl = process.env.GURL  || "https://chat.whatsapp.com/IeLtUn3KvIL18tjWSij9Mo";
-global.website =process.env.GURL|| "https://chat.whatsapp.com/IeLtUn3KvIL18tjWSij9Mo" ; 
+global.gurl = process.env.GURL  || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j";
+global.website =process.env.GURL|| "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j" ; 
 global.THUMB_IMAGE=process.env.THUMB_IMAGE|| "https://i.imgur.com/6wLZehj.jpeg" ; // SET LOGO FOR IMAGE 
 
 
