@@ -10,7 +10,7 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+923192173398?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+wasitech+Repo" target="_blank">
+  <a href="https://wa.me/+923259823531?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+wasitech+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a aria-label="wasi is free to use" href="https://github.com/Itxxwasi/Wasi/blob/main/LICENCE" target="_blank">
@@ -76,6 +76,7 @@
 
 
 ***MY WHATSAPP NUMBER***
+
 ```
 923259823531
 ```
