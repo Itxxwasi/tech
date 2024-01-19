@@ -5,7 +5,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 //═══════[Required Variables]════════\\
 global.audio= "" ;  
 global.video= "" ;
-global.devs = "923135673658"
+global.devs = "923046466965"
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL||""                       // put your app url here,
 global.email="samsamsun789@gmail.com"
@@ -19,13 +19,13 @@ global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github=process.env.GITHUB|| "https://github.com/Itxxwasi/WASI-BOT";
 global.gurl = process.env.GURL  || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j";
 global.website =process.env.GURL|| "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j" ; 
-global.THUMB_IMAGE=process.env.THUMB_IMAGE|| "https://telegra.ph/file/50ffa78397cbdfef12a1f.jpg" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE=process.env.THUMB_IMAGE|| "https://telegra.ph/file/8696b7d4a4140aeaa72dc.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
 
-global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null,923135673658";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "923135673658";
+global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null,923046466965";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "924046466965";
 
 module.exports = {
 
@@ -36,13 +36,13 @@ module.exports = {
   HANDLERS:process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH  || "main",
   VERSION:process.env.VERSION || "v.1.2.7",
-  caption:process.env.CAPTION || "©𝙒𝘼𝙎𝙄-𝙈𝘿" , // ```『 𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝙒𝘼𝙎𝙄-𝙏𝙀𝘾𝙃 』```", //*『𝙎𝙐𝘽𝘾𝙍𝙄𝘽𝙀 𝙒𝘼𝙎𝙄𝙏𝙀𝘾𝙃 𝙊𝙉 𝙔𝙏』*\n youtube.com/@wasitech1"),
+  caption:process.env.CAPTION || "©𝙎𝘼𝙈𝙀𝙀𝙍-𝙈𝘿" , // ```『 𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝙒𝘼𝙎𝙄-𝙏𝙀𝘾𝙃 』```", //*『𝙎𝙐𝘽𝘾𝙍𝙄𝘽𝙀 𝙒𝘼𝙎𝙄𝙏𝙀𝘾𝙃 𝙊𝙉 𝙔𝙏』*\n youtube.com/@wasitech1"),
 
  
   author: process.env.PACK_AUTHER || "𝙒𝘼𝙎𝙄",
   packname: process.env.PACK_NAME || "♥️",
-  botname : process.env.BOT_NAME  || "𝙒𝘼𝙎𝙄-𝙏𝙀𝘾𝙃",
-  ownername:process.env.OWNER_NAME|| "𝙄𝙏𝙓-𝙒𝘼𝙎𝙄",
+  botname : process.env.BOT_NAME  || "𝙈𝘿-𝙎𝘼𝙈𝙀𝙀𝙍",
+  ownername:process.env.OWNER_NAME|| "𝙄𝙏𝙓-𝙎𝘼𝙈𝙀𝙀𝙍",
 
 
   sessionName:process.env.SESSION_ID|| "",  // PUT SESSION ID HERE 
@@ -72,7 +72,7 @@ readmessage:process.env.READ_MESSAGE|| "false",
 
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
-  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "wasi",
+  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "SAMEER",
 
 };
 
