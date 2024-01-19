@@ -19,7 +19,7 @@ global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github=process.env.GITHUB|| "https://github.com/Itxxwasi/WASI-BOT";
 global.gurl = process.env.GURL  || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j";
 global.website =process.env.GURL|| "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j" ; 
-global.THUMB_IMAGE=process.env.THUMB_IMAGE|| "https://i.imgur.com/6wLZehj.jpeg" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE=process.env.THUMB_IMAGE|| "https://telegra.ph/file/50ffa78397cbdfef12a1f.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
