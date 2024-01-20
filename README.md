@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/Itxxwasi/tech/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
@@ -85,7 +85,7 @@
  
 ## Deployment Methods
 ---
-1.  ***Get `SESSION ID` by  [`SCAN QR`](https://suhail-md-g1y0.onrender.com/) code. And then `Go-to Whatapp>Three dots>Linked Devices`***
+1.  ***Get `SESSION ID` by  [`SCAN QR`](https://suhail-md-vtsf.onrender.com/) code. And then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
 ***Get `SESSION ID` by  [`PARING CODE`](https://replit.com/@Itxxwasi/WASI-MD-3?v=1) code. And then `Go-to Whatapp>Three dots>Linked Devices`***
