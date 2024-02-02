@@ -36,10 +36,11 @@ module.exports = {
   HANDLERS:process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH  || "main",
   VERSION:process.env.VERSION || "v.1.2.7",
-  caption:process.env.CAPTION || "©𝙒𝘼𝙎𝙄-𝙈𝘿" , // ```『 𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝙒𝘼𝙎𝙄-𝙏𝙀𝘾𝙃 』```", //*『𝙎𝙐𝘽𝘾𝙍𝙄𝘽𝙀 𝙒𝘼𝙎𝙄𝙏𝙀𝘾𝙃 𝙊𝙉 𝙔𝙏』*\n youtube.com/@wasitech1"),
+  caption:process.env.CAPTION || "© 𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝙒𝘼𝙎𝙄-𝙏𝙀𝘾𝙃 * 』*『 *𝙎𝙐𝘽𝘾𝙍𝙄𝘽𝙀 𝙒𝘼𝙎𝙄𝙏𝙀𝘾𝙃 𝙊𝙉 𝙔𝙏』* \n youtube.com/@wasitech1"),
+ 
 
  
-  author: process.env.PACK_AUTHER || "𝙒𝘼𝙎𝙄",
+  author: process.env.PACK_AUTHER || "𝙒𝘼𝙎",
   packname: process.env.PACK_NAME || "♥️",
   botname : process.env.BOT_NAME  || "𝙒𝘼𝙎𝙄-𝙏𝙀𝘾𝙃",
   ownername:process.env.OWNER_NAME|| "𝙄𝙏𝙓-𝙒𝘼𝙎𝙄",
